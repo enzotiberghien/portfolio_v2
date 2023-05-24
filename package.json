@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "start": "serve -s dist",
-    "build": "npm install --force && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
