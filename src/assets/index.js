@@ -34,6 +34,7 @@ import theBookShop from "./theBookShop.png";
 import featuresFlicks from "./featuresFlicks.png";
 import c4Climbing from "./c4Climbing.png";
 import movies from "./movies.png";
+import orgonite from "./orgonite.png";
 
 export {
   logo,
@@ -68,5 +69,6 @@ export {
   myrmidon,
   featuresFlicks,
   c4Climbing,
-  theBookShop
+  theBookShop,
+  orgonite
 };

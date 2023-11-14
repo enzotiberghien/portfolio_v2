@@ -27,7 +27,8 @@ import {
   c4Climbing,
   myrmidon,
   featuresFlicks,
-  theBookShop
+  theBookShop,
+  orgonite
 } from "../assets";
 
 export const navLinks = [
@@ -195,9 +196,30 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Orgonite Shop",
+    description:
+      "A Full stack web store for a french customer, using the mern stack, sanity as a CMS and stripe for payments. Great experience! Link in the github repo.",
+    tags: [
+      {
+        name: "react, stripe",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express, sanity",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css, tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: orgonite,
+    source_code_link: "https://github.com/enzotiberghien/orgonite-shop.git",
+  },
+  {
     name: "Movie Tracker",
     description:
-      "Full stack project make with MongoDB Express and React. Create an account and store the movie you watched.",
+      "Full stack project make with MongoDB Express and React. Create an account and store the movie you watched. Link in repo",
     tags: [
       {
         name: "react",
