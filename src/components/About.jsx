@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a Student in Software Developement based in Kristianstad, Sweden. I'm experienced in JavaScript, specializing in frameworks like React and Express. My goal is to learn as much as possible in this field and becoming a good developer. I do some freelance work where I collaborate with clients to create efficient, scalable, and user-friendly solutions. I'm actively searching for a position as Web Developer.
+        I'm a Full Stack Developer based in Kristianstad, Sweden. I love using JavaScript, speciallyzing in React and Express to develop my apps alongside MongoDB as database. But I am versatile and will use whatever gets the job done. I am currently dabbling with Next.js and SSR. I'm actively searching for a position as a Full stack || Frontend || Backend Developer.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
